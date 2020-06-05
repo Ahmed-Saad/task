@@ -1,0 +1,1 @@
+double click on project_build.bat and the product will build and test will run
